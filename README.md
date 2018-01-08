@@ -1,6 +1,6 @@
 # vue-nuxt-news-app
 
-Found at [Zeit Now Deployment](https://vue-nuxt-news-app-rvayskfhdq.now.sh/)
+Found at [Zeit Now Deployment](https://vue-nuxt-news-app-sfhaumujfz.now.sh)
 
 ## Build Setup
 
