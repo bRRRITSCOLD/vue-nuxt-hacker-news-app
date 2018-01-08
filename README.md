@@ -1,6 +1,6 @@
 # vue-nuxt-news-app
 
-> Nuxt.js project
+Found at [Zeit Now Deployment](https://vue-nuxt-news-app-rvayskfhdq.now.sh/)
 
 ## Build Setup
 
